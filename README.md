@@ -23,4 +23,4 @@
 
 날짜        |난이도  |문제번호 |문제명|블로그
 :-------------------------:|:-------------------------:    |:------------------------- |:-------------------------   |:-------------------------:  
-2022.05.22|브론즈 V |2557|[Hello World](https://github.com/mingyeong1203/CodingTest-Practice/blob/main/week1/src/HelloWorld.java) |  |
+2022.05.25|브론즈 V |2557|[Hello World](https://github.com/mingyeong1203/CodingTest-Practice/blob/main/week1/src/HelloWorld.java) |  |
