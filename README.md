@@ -10,7 +10,6 @@
 
 ## ✅ commit 
 - commit  
-  * [백준허브](https://velog.io/@flaxinger/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)로 commit  
   * [문제 출처] 문제이름 / 걸린시간 
 
 - 문제출처 작성법
