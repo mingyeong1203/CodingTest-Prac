@@ -9,8 +9,11 @@
 </br>
 
 ## ✅ commit 
+- 파일이름
+  * 문제출처_문제번호  
+  
 - commit  
-  * [문제 출처] 문제이름 / 걸린시간 
+  * [문제출처] 문제이름 / 걸린시간 
 
 - 문제출처 작성법
   * [BOJ] - 백준 
@@ -24,3 +27,4 @@
 날짜        |난이도  |문제번호 |문제명|블로그
 :-------------------------:|:-------------------------:    |:------------------------- |:-------------------------   |:-------------------------:  
 2022.05.25|브론즈 V |2557|[Hello World](https://github.com/mingyeong1203/CodingTest-Practice/blob/main/week1/src/HelloWorld.java) |  |
+2022.05.30|브론즈 IV |14681|[사분면 고르기](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_14681.java) |  |
