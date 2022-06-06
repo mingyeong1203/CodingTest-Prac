@@ -32,3 +32,4 @@
 2022.05.30|브론즈 IV |2752|[세수정렬](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2752.java) |  |
 2022.05.30|브론즈 IV |2752|[세수정렬(2차)](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2752_2.java) |  |
 2022.05.30|브론즈 III |2438|[별 찍기 - 1](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2438.java) |  |
+2022.06.06|브론즈 II |2577|[숫자의 개수](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOI_2577.java) |  |
