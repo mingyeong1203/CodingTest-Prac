@@ -30,3 +30,5 @@
 2022.05.30|브론즈 IV |14681|[사분면 고르기](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_14681.java) |  |
 2022.05.30|브론즈 IV |2480|[주사위 세개](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2480.java) |  |
 2022.05.30|브론즈 IV |2752|[세수정렬](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2752.java) |  |
+2022.05.30|브론즈 IV |2752|[세수정렬(2차)](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2752_2.java) |  |
+2022.05.30|브론즈 III |2438|[별 찍기 - 1](https://github.com/mingyeong1203/CodingTest-Prac/blob/main/week01/BOJ_2438.java) |  |
